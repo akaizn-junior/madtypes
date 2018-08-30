@@ -47,3 +47,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - _placeBetween now takes a callback
 
 - _remove now takes a callback
+
+- changelog description, now reflects the project's name
